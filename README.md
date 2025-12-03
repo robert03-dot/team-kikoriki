@@ -1,7 +1,7 @@
 # Proiect: Asamblarea robotului 4WD Omni-Directional Mobile Robot Kit
 
 ## Echipa
-- Nume echipă: VoltageX
+- Nume echipă: kikoriki
 - Moto Echipa: Puterea se mișcă în toate direcțiile.
 ## Descriere generală
 Scopul proiectului este asamblarea și testarea robotului 4WD Omni-Directional Mobile Robot Kit, în cadrul laboratorului APD.  
