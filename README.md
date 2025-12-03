@@ -24,6 +24,7 @@ Exemplu:
 | 7 | Arduino USB Cable | 71005 | 1 |  |
 
 ---
+<img width="844" height="356" alt="image" src="https://github.com/user-attachments/assets/18c5052c-df50-4a60-8f32-ff9a4dc5a259" />
 
 ## Asamblare pas cu pas
 Video Tutoriale si imagini poate chiar de la voi 
