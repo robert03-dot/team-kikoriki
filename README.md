@@ -26,6 +26,8 @@ Exemplu:
 ---
 <img width="844" height="356" alt="image" src="https://github.com/user-attachments/assets/18c5052c-df50-4a60-8f32-ff9a4dc5a259" />
 <img width="872" height="715" alt="image" src="https://github.com/user-attachments/assets/e7ecf5ca-f6bd-469b-9433-786e283ce7b0" />
+
+
 The picture above shows all of the I/O lines and Connectors on the controller, which includes:
 􀂃 One Regulated Motor Power Input Terminal (6v to12v)
 􀂃 One Unregulated Servo Power Input Terminal (you supply regulated 4v to 7.2v)
