@@ -50,8 +50,71 @@ The picture above shows all of the I/O lines and Connectors on the controller, w
 
 􀂃 Jumper bank to Enable/Disable Motor Control
 
+![WhatsApp Image 2025-12-03 at 16 35 29](https://github.com/user-attachments/assets/0bd6d82f-5a5e-40de-8dfd-6c24e73073b5)
 
-<img width="1279" height="707" alt="image" src="https://github.com/user-attachments/assets/e83665aa-d377-4b7a-b500-8ee3d62f01e9" />
+<img width="572" height="324" alt="image" src="https://github.com/user-attachments/assets/0c23f254-94fe-4848-a16e-01ffc970c1bf" />
+
+Descriptions
+
+The 4WD Omni-Directional Arduino Compatible Mobile Robot Kit includes the Arduino IO Expansion
+V1.2 and gives you extra ease to connect device such as sensors, servo and RS485 device.
+This sensor expansion board is able to easily connect a number of commonly used sensors.
+Features
+ 14 steering gear interface
+
+ 8 analog IO port and power
+
+ 6 PWM interface
+
+ 1 servo external power supply terminal
+
+ 5 External power supply input pin
+
+ RS485 interface
+
+ Reset button
+
+ Wireless data-transmission interface
+
+Specifications
+ Microcontroller: Arduino IO Expansion V1.2
+
+ Module power supply: +5 V
+
+ Servo power supply: +5 V
+
+ Module size: 53 x 70mm
+
+ Weight: 33.5g
+
+Compatibility
+ Arduino Mega
+
+ Arduino Duemilanove (168 and 328)
+
+ Arduino Diecimila
+
+ Arduino I/O
+
+ Arduino LCD
+
+ Arduino Motor
+
+ Arduino Ethernet
+
+Brief introduction of Omni-wheel
+Omni-directional wheels are unique as they are able to roll freely in two directions .It can ether
+roll like a normal wheel or roll laterally using the wheels along its circumference.Omni-direction
+wheels allow a robot to convert from a non-holonomic to a holonomic robot.A non-holonomic
+robot that uses normal wheels has only 2 out of 3 controllable degrees-of-freedom which
+are,moving forward/backwards and rotation.Not being able to move side ways makes a robot
+slower and less efficient in reaching its given goal. The holonomic omni-directional wheels are
+able to overcome this problem,as it it a highly maneuverable.Unlike normal non-holonomic
+robot,the holonomic omni-directional robot can move in an arbitrary direction continuously
+without changing the direction of the wheels.It can move back and forth,slidewaysmand rotates
+at the same position. 
+
+<img width="542" height="429" alt="image" src="https://github.com/user-attachments/assets/45645a21-ad70-4de7-ba52-6149948a1e71" />
 
 ## Asamblare pas cu pas
 Video Tutoriale si imagini poate chiar de la voi 
