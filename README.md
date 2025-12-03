@@ -25,6 +25,20 @@ Exemplu:
 
 ---
 <img width="844" height="356" alt="image" src="https://github.com/user-attachments/assets/18c5052c-df50-4a60-8f32-ff9a4dc5a259" />
+<img width="872" height="715" alt="image" src="https://github.com/user-attachments/assets/e7ecf5ca-f6bd-469b-9433-786e283ce7b0" />
+The picture above shows all of the I/O lines and Connectors on the controller, which includes:
+􀂃 One Regulated Motor Power Input Terminal (6v to12v)
+􀂃 One Unregulated Servo Power Input Terminal (you supply regulated 4v to 7.2v)
+􀂃 One Servo input power selection jumper
+􀂃 One Serial Interface Module Header for APC220 Module
+􀂃 Two DC Motor Terminals – Handles motor current draw up to 2A, each terminal
+􀂃 One IIC/TWI Port – SDA, SCL, 5V, GND
+􀂃 One Analog Port with 8 analog inputs – one input is tied internally to the supply voltage
+􀂃 One General Purpose I/O Port with 13 I/O lines – 4,5,6,7 can be used to control motors
+􀂃 One Reset Button
+􀂃 Jumper bank to Enable/Disable Motor Control
+
+<img width="1279" height="707" alt="image" src="https://github.com/user-attachments/assets/e83665aa-d377-4b7a-b500-8ee3d62f01e9" />
 
 ## Asamblare pas cu pas
 Video Tutoriale si imagini poate chiar de la voi 
